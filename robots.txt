@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-rliz00.juragan89a.site/sitemap.xml
